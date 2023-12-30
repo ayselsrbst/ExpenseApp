@@ -1,4 +1,4 @@
-import 'package:ExpenseApp/models/expense.dart';
+import 'package:expense_app/models/expense.dart';
 
 class CategoryExpense {
   const CategoryExpense({required this.category, required this.expenses});

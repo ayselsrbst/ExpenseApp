@@ -1,4 +1,5 @@
-# quiz_app
+<<<<<<< HEAD
+# ExpenseApp
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# expenseapp
+>>>>>>> d646368d0ddb3ba743fa0f2b7a533fee08175628

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ExpenseApp/pages/main_page.dart';
+import 'package:expense_app/pages/main_page.dart';
 import 'models/expense.dart';
 
 ColorScheme lightColorsScheme = ColorScheme.fromSeed(seedColor: Colors.black54);

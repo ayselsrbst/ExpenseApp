@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:ExpenseApp/models/expense.dart';
+import 'package:expense_app/models/expense.dart';
 
 class NewExpense extends StatefulWidget {
   const NewExpense({super.key, required this.onAdd});

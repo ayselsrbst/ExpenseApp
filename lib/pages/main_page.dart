@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:ExpenseApp/models/expense.dart';
-import 'package:ExpenseApp/pages/expense_list.dart';
-import 'package:ExpenseApp/widgets/new_expense.dart';
+import 'package:expense_app/models/expense.dart';
+import 'package:expense_app/pages/expense_list.dart';
+import 'package:expense_app/widgets/new_expense.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({
